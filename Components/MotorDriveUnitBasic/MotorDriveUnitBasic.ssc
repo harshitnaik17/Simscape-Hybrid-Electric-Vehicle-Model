@@ -4,7 +4,6 @@ component MotorDriveUnitBasic
 % at TrqCmd port to control the rotor speed.
 % Connect DC electric power supply at nodes Vplus and Vminus.
 % Connect mechanical rotational elements at nodes R and C.<br/>
-% <br/>
 % You can adjust the motor efficiency with block parameters.
 % Use the linked script to visually check the effect of parameter settings
 % to the efficiency contours.<br/>
